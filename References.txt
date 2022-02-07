@@ -1,0 +1,10 @@
+REFERENCES
+
+[1]
+https://baocongchen.github.io/Identify-Fraud-from-Enron-Email-gradingpurpose/
+
+[2]
+https://blog.exsilio.com/all/accuracy-precision-recall-f1-score-interpretation-of-performance-measures/
+
+[3]
+https://cogitoai.home.blog/2020/05/29/why-machine-learning-model-validation-in-important/
